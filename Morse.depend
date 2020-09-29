@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601381480 source:c:\users\dell\desktop\morse\morse\main.cpp
+	<Windows.h>
+	<iostream>
+	<string>
+
